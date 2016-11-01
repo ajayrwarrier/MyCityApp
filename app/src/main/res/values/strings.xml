@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My City App</string>
+    <string name="MainAttactions">Main Attractions</string>
+    <string name="Hospital">Hospitals</string>
+    <string name="Restaurants">Restaurants</string>
+    <string name="events">Malls</string>
+    <string name="name">NAME OF THE PLACE</string>
+    <string name="address">ADDRESS</string>
+    <string name="jubilename">Jubilee Mission Medical College and Research Centre</string>
+    <string name="jubileaddress">Nellikunnu, Thrissur, Kerala 680006</string>
+    <string name="elitename">Elite Mission Hospital Thrissur</string>
+    <string name="eliteaddress">Koorkenchery, Thrissur, Kerala 680007</string>
+    <string name="mothername">Mother Hospital P Ltd</string>
+    <string name="motheraddress">Pullazhi, Olarikkara, Thrissur, Kerala 680012</string>
+    <string name="metroname">Metropolitan Hospital</string>
+    <string name="metroaddress">Koorkenchery, Thrissur, Kerala 680007</string>
+    <string name="pooramname">Thrissur Pooram</string>
+    <string name="pooramdate">2016 April 17</string>
+    <string name="vadakname">Vadakkunnathan Temple</string>
+    <string name="vadakaddress">Near Thekkinkadu Maidan, Kuruppam, Anchuvilakku, Thrissur, Kerala 680001</string>
+    <string name="shakthanname">Shakthan Thampuran Palace</string>
+    <string name="shakthanaddress">Stadium Rd, Chembukkav, Thrissur, Kerala 680020</string>
+    <string name="selexname">Selex Mall</string>
+    <string name="selexaddr">Trichur-Palghat Rd, East Fort, Pallikkulam, Thrissur, Kerala 680005</string>
+    <string name="cityname">City Centre Shopping Mall</string>
+    <string name="cityaddr">Swaraj Round W, Naikkanal, Thrissur, Kerala 680020</string>
+    <string name="shobhaname">Sobha City Mall</string>
+    <string name="shobhaaddr">Sobha City Fountain, Puzhakkal, Thrissur, Kerala 680553</string>
+    <string name="epname">EP Supermarket</string>
+    <string name="epaddr">Kuttipuzha Nagar, Poothole, Thrissur, Kerala 680004</string>
+    <string name="bharathname">Hotel Bharath</string>
+    <string name="bharathaddr">TMC 36–483, Chembottil Ln, Thrissur, Kerala 680001</string>
+    <string name="spoonname">Copper Spoon Multi Cuisine Restaurant Pvt Ltd</string>
+    <string name="spoonaddr">3rd Floor, Selex Mall, East Fort, Thrissur, Kerala 680005</string>
+    <string name="sapphirename">Hotel Sapphire</string>
+    <string name="sapphireaddr">Sapphire Complex, Railway Station Road, Thrissur, Kerala 680001</string>
+    <string name="mingname">Ming Palace</string>
+    <string name="mingaddr">2nd Floor, Pathans Building, Round South, Thrissur, Kerala 680001</string>
+
+
+
+</resources>
